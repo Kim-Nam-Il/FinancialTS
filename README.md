@@ -4,5 +4,22 @@ Explore "Financial Time Series" on [Amazon](https://www.amazon.com/Analysis-Fina
 
 ## 1. Introduction
 
-In the contemporary financial world, Python has emerged as a leading tool for financial analysis. During my undergraduate studies, I delved into financial analysis through Ruey S. Tsay's insightful book. However, I noticed a significant gap: there was a lack of Python-based resources and examples complementing Tsay's teachings. Recognizing this, I decided to create this GitHub repository. It's designed to bridge this gap by providing Python code examples and resources, making Tsay's concepts more accessible to everyone studying his book.
+Inthe contemporary financial world, Python has emerged as a leading tool for financial analysis. During my undergraduate studies, I delved into financial analysis through Ruey S. Tsay's insightful book. However, I noticed a significant gap: there was a lack of Python-based resources and examples complementing Tsay's teachings. Recognizing this, I decided to create this GitHub repository. It's designed to bridge this gap by providing Python code examples and resources, making Tsay's concepts more accessible to everyone studying his book.
 
+Before you are dive into the coding you need to download files in [RUEY S. TSAY's Website](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
+
+## 2. Progress
+
+- [ ] Chapter 1 FINANCIAL TIME SERIES AND THEIR CHARACTERISTICS
+    - Daily simple returns of IBM, VW, EW, SP
+- [ ] Chapter 2 LINEAR TIME SERIES ANALYSIS AND ITS APPLICATIONS
+- [ ] Chapter 3 CONDITIONAL HETEROSCEDASTIC MODELS
+- [ ] Chapter 4 NONLINEAR MODELS AND THEIR APPLICATIONS
+- [ ] Chapter 5 HIGH-FREQUENCY DATA ANALYSIS AND MARKET MICROSTRUCTURE
+- [ ] Chapter 6 CONTINUOUS-TIME MODELS AND THEIR APPLICATIONS
+- [ ] Chapter 7 EXTREME VALUES, QUANTILE ESTIMATION, AND VALUE AT RISK
+- [ ] Chapter 8 MULTIVARIATE TIME SERIES ANALYSIS AND ITS APPLICATIONS
+- [ ] Chapter 9 PRINCIPAL COMPONENT ANALYSIS AND FACTOR MODELS
+- [ ] Chapter 10 MULTIVARIATE VOLATILITY MODELS AND THEIR APPLICATIONS
+- [ ] Chapter 11 STATE-SPACE MODELS AND KALMAN FILTER
+- [ ] Chapter 12 MARKOV CHAIN MONTE CARLO METHODS WITH APPLICATIONS
