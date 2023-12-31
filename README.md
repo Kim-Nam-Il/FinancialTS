@@ -11,21 +11,8 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
 ## 2. Progress
 
 - [ ] Chapter 1 FINANCIAL TIME SERIES AND THEIR CHARACTERISTICS
-    - [ ] (1) Daily simple returns of IBM, VW, EW, SP (01/02/70-12/31/08) (Data: `d-ibm3dx7008.txt`)
-    - [ ] (2) Daily simple returns of Intel stock (12/15/72-12/31/08) (Data: `d-intc7208.txt`)
-    - [ ] (3) Daily simple returns of 3M stock (01/02/70-12/31/08) (Data: `d-3m7008.txt`)
-    - [ ] (4) Daily simple returns of Microsoft stock (03/04/86-12/13/08) (Data: `d-msft8608.txt`)
-    - [ ] (5) Daily simple returns of Citi-group stock (03/14/86-12/31/08) (Data: `d-c8608.txt`)
-    - [ ] (6) Monthly simple returns of IBM, VW, EW, SP (1/26-12/08) (Data: `m-ibm3dx2608.txt`)
-    - [ ] (7) Monthly simple returns of Intel stock (Data: `m-intc7308.txt`)
-    - [ ] (8) Monthly simple returns of 3M stock (02/46-12/08) (Data: `m-3m4608.txt`)
-    - [ ] (9) Monthly simple returns of Microsoft stock (Data: `m-msft8608.txt`)
-    - [ ] (10) Monthly simple returns of Citi-group stock (Data: `m-c8608.txt`)
-    - [ ] (11) Monthly 10-yr and 1-yr Treasury constant maturity rates (04/53-02/09) (Data: `m-gs10.txt` & `m-gs1.txt`)
-    - [ ] (12) Daily exchange rate between U.S. dollar and Japanese yen (01/04/00 - 03/27/09) (Data: `d-jpus.txt`)
-    - [ ] (13) Monthly bond returns (Data: `m-fama-bonds.txt`)
-    - [ ] (14) Monthly 3-yr and 5-yr Treasury constant maturity rates (Data: `m-gs3.txt` and `m-gs5.txt`)
-    - [ ] (15) Weekly Treasury Bill rates (Data: `w-tb3ms.txt` & `w-tb6ms.txt`)
+    - [ ] Page12 Demonstration - 1_Exercise_1.ipynb(Data:`d-3stocks9908.txt`)
+    - [ ] 
 - [ ] Chapter 2 LINEAR TIME SERIES ANALYSIS AND ITS APPLICATIONS
     - [ ] (1) Monthly IBM stock, VW index, EW index, and S&P index returns (Data: `m-ibm3dx2608.txt`)
     - [ ] (2) Growth rate of U.S. quarterly real GNP (Data: `dgnp82.txt` / `q-gnp4791.txt`)
