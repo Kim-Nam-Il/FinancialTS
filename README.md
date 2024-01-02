@@ -11,8 +11,13 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
 ## 2. Progress
 
 - [ ] Chapter 1 FINANCIAL TIME SERIES AND THEIR CHARACTERISTICS
-    - [ ] Page12 Demonstration - 1_Exercise_1.ipynb(Data:`d-3stocks9908.txt`)
-    - [ ] Page24 
+    - [x] Demonstration_1.ipynb
+    - [x] Exercise_1.ipynb
+    - [x] Exercise_2.ipynb
+    - [x] Exercise_3.ipynb
+    - [x] Exercise_4.ipynb
+    - [ ] Exercise_5.ipynb
+
 - [ ] Chapter 2 LINEAR TIME SERIES ANALYSIS AND ITS APPLICATIONS
     - [ ] (1) Monthly IBM stock, VW index, EW index, and S&P index returns (Data: `m-ibm3dx2608.txt`)
     - [ ] (2) Growth rate of U.S. quarterly real GNP (Data: `dgnp82.txt` / `q-gnp4791.txt`)
