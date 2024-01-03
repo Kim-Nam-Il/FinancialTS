@@ -16,7 +16,7 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
     - [x] Exercise_2.ipynb
     - [x] Exercise_3.ipynb
     - [x] Exercise_4.ipynb
-    - [ ] Exercise_5.ipynb
+    - [x] Exercise_5.ipynb
 
 - [ ] Chapter 2 LINEAR TIME SERIES ANALYSIS AND ITS APPLICATIONS
     - [ ] (1) Monthly IBM stock, VW index, EW index, and S&P index returns (Data: `m-ibm3dx2608.txt`)
