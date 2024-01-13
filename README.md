@@ -19,11 +19,11 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
     - [x] 1_Exercise_5.ipynb
 
 - [ ] Chapter 2 LINEAR TIME SERIES ANALYSIS AND ITS APPLICATIONS
-    - [ ] 2_Demonstration_1.ipynb - page. 35 ```(1) Monthly IBM stock, VW index, EW index, and S&P index returns (Data: `m-ibm3dx2608.txt`) ```
-    - [ ] 2_Demonstration_2.ipynb - page. 45 ``` (2) Growth rate of U.S. quarterly real GNP (Data: `dgnp82.txt` / `q-gnp4791.txt`) ```
-    - [ ] (3) Monthly simple returns of 3M stock (Data: `m-3m4608.txt`)
-    - [ ] (4) U.S. quarterly GDP (1947-2008) (Data: `q-gdp4708.txt`)
-    - [ ] (5) Daily values of S&P 500 index (Data: `d-sp55008.txt`)
+    - [x] 2_Demonstration_1.ipynb - page. 35
+    - [x] 2_Demonstration_2.ipynb - page. 45
+    - [x] 2_Demonstration_3.ipynb - page. 49
+    - [x] 2_Demonstration_4.ipynb - page. 51
+    - [x] 2_Demonstration_5.ipynb - page. 78
     - [ ] (6) Quarterly earnings of JNJ (1960-1980) (Data: `q-jnj.txt`)
     - [ ] (7) Monthly simple returns of Deciles 1, 2, 9 & 10 (Data: `m-deciles08.txt`)
     - [ ] (8) Weekly 1-yr & 3-yr interest rates (Data: `w-gs1yr.txt` & `w-gs3yr.txt`)
