@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43457e6d-df02-456b-b51b-87d02bb2341e" name="Changes" comment="Git add on README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/2_Demonstration_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/2_Demonstration_5.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="43457e6d-df02-456b-b51b-87d02bb2341e" name="Changes" comment="Git add on README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702993536781</updated>
       <workItem from="1702993538045" duration="2919000" />
-      <workItem from="1705241882171" duration="1293000" />
+      <workItem from="1705241882171" duration="1795000" />
     </task>
     <servers />
   </component>
