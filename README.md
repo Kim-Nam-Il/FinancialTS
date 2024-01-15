@@ -24,8 +24,8 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
     - [x] 2_Demonstration_3.ipynb - page. 49
     - [x] 2_Demonstration_4.ipynb - page. 51
     - [x] 2_Demonstration_5.ipynb - page. 78
-    - [ ] (6) Quarterly earnings of JNJ (1960-1980) (Data: `q-jnj.txt`)
-    - [ ] (7) Monthly simple returns of Deciles 1, 2, 9 & 10 (Data: `m-deciles08.txt`)
+    - [x] 2_Demonstration_6.ipynb - page. 80
+    - [x] 2_Demonstration_7.ipynb - page. 88
     - [ ] (8) Weekly 1-yr & 3-yr interest rates (Data: `w-gs1yr.txt` & `w-gs3yr.txt`)
     - [ ] (9) Daily simple returns of VW and EW indices (Data: `d-ibm3dx7008.txt`)
 
