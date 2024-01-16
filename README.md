@@ -26,20 +26,8 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
     - [x] 2_Demonstration_5.ipynb - page. 78
     - [x] 2_Demonstration_6.ipynb - page. 80
     - [x] 2_Demonstration_7.ipynb - page. 88
-    - [ ] (8) Weekly 1-yr & 3-yr interest rates (Data: `w-gs1yr.txt` & `w-gs3yr.txt`)
-    - [ ] (9) Daily simple returns of VW and EW indices (Data: `d-ibm3dx7008.txt`)
-
-    - Exercises:
-        - [ ] (3) Monthly U.S. unemployment rate (Data: `m-unrate.txt`)
-        - [ ] (4) Monthly simple returns of Deciles 1, 2, 9, & 10 (Data: `m-deciles08.txt`)
-        - [ ] (5) Daily returns of IBM (Data: `d-ibm3dx7008.txt`)
-        - [ ] (6) Demand of electricity in logarithm (Data: `power6.txt`)
-        - [ ] (7, 8 & 9) Daily returns of IBM, VW, EW & S&P (Data: `d-ibm3dxwkdays8008.txt`)
-        - [ ] (10, 11 & 12) Weekly yields of Moody's AAA & BAA seasoned bonds (Data: `w-Aaa.txt` and `w-Baa.txt`)
-        - [ ] (13) Monthly returns of EW (Data: `m-ew6299.txt`)
-        - [ ] (14) Log prices of futures and spot of SP500 (Data: `sp5may.dat`)
-        - [ ] (15) Quarterly GDP implicit price deflator (Data: `q-gdpdef.txt`)
-
+    - [ ] 2_Demonstration_8.ipynb - page. 95
+     
 - [ ] Chapter 3 CONDITIONAL HETEROSCEDASTIC MODELS
 - [ ] Chapter 4 NONLINEAR MODELS AND THEIR APPLICATIONS
 - [ ] Chapter 5 HIGH-FREQUENCY DATA ANALYSIS AND MARKET MICROSTRUCTURE
