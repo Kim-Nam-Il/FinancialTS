@@ -1,0 +1,42 @@
+import pandas as pd
+from statsmodels.tsa.stattools import acf, qstat, adfuller
+from statsmodels.tsa.arima.model import ARIMA
+from statsmodels.tsa.arima_process import ArmaProcess
+from statsmodels.graphics.tsaplots import plot_predict
+
+# Assuming the data is loaded into a DataFrame 'df'
+# The DataFrame has columns 'Decile2' and 'Decile10' for the respective decile returns
+
+# Part (a)
+# Test the null hypothesis of zero autocorrelations for the first 12 lags
+
+# For Decile 2
+acf_decile2, qstats_decile2, pvalues_decile2 = acf(df['Decile2'], qstat=True, fft=True)
+lag = 12  # We are testing the first 12 lags
+print(fP-values for Ljung-Box test on Decile 2 for first {lag} lags {pvalues_decile2[lag]})
+
+# For Decile 10
+acf_decile10, qstats_decile10, pvalues_decile10 = acf(df['Decile10'], qstat=True, fft=True)
+print(fP-values for Ljung-Box test on Decile 10 for first {lag} lags {pvalues_decile10[lag]})
+
+# Part (b)
+# Build an ARMA model for the return series of Decile 2
+# Determine the order of the ARMA model by AICBIC or another criterion
+# The following is a placeholder model with (p,d,q) = (1,0,1)
+# Replace with the actual order determined
+model_decile2 = ARIMA(df['Decile2'], order=(1,0,1)).fit()
+print(model_decile2.summary())
+
+# Model checking
+# Check residuals, ACF and PACF of residuals, etc.
+
+# Part (c)
+# Produce forecasts for 1 to 12 steps ahead
+forecasts_decile2 = model_decile2.get_forecast(steps=12)
+forecast_values = forecasts_decile2.predicted_mean
+forecast_se = forecasts_decile2.se_mean
+print(Forecasts, forecast_values)
+print(Standard Errors, forecast_se)
+
+# Optional plot the forecasts
+plot_predict(model_decile2, end=len(df['Decile2'])+12)

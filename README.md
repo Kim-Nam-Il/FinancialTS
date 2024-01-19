@@ -25,6 +25,7 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
     - [x] 2_Demonstration_4.ipynb - page. 51
     - [x] 2_Demonstration_5.ipynb - page. 78
     - [x] 2_Demonstration_6.ipynb - page. 80
+<<<<<<< HEAD
     - Exercises:
         - [ ] (3) Monthly U.S. unemployment rate (Data: `m-unrate.txt`)
         - [ ] (4) Monthly simple returns of Deciles 1, 2, 9, & 10 (Data: `m-deciles08.txt`)
@@ -36,6 +37,11 @@ Before you are dive into the coding you need to download files in [RUEY S. TSAY'
         - [ ] (14) Log prices of futures and spot of SP500 (Data: `sp5may.dat`)
         - [ ] (15) Quarterly GDP implicit price deflator (Data: `q-gdpdef.txt`)
 
+=======
+    - [x] 2_Demonstration_7.ipynb - page. 88
+    - [ ] 2_Demonstration_8.ipynb - page. 95
+     
+>>>>>>> refs/remotes/origin/main
 - [ ] Chapter 3 CONDITIONAL HETEROSCEDASTIC MODELS
 - [ ] Chapter 4 NONLINEAR MODELS AND THEIR APPLICATIONS
 - [ ] Chapter 5 HIGH-FREQUENCY DATA ANALYSIS AND MARKET MICROSTRUCTURE

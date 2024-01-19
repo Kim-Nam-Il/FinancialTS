@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43457e6d-df02-456b-b51b-87d02bb2341e" name="Changes" comment="Git add on README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/.ipynb_checkpoints/2_Demonstration_7-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/.ipynb_checkpoints/2_Demonstration_7-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/2_Demonstration_7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/2_Demonstration_7.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blog_Stat101" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
@@ -52,7 +52,7 @@
       <updated>1702993536781</updated>
       <workItem from="1702993538045" duration="2919000" />
       <workItem from="1705241882171" duration="2209000" />
-      <workItem from="1705381786293" duration="3109000" />
+      <workItem from="1705381786293" duration="3777000" />
     </task>
     <servers />
   </component>
